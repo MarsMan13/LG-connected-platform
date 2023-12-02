@@ -9,6 +9,7 @@ const MainPanel = kind({
 		<Panel {...props}>
 			<Header title="Hello world!" />
 			<Button>Click me</Button>
+			<></>
 		</Panel>
 	)
 });
